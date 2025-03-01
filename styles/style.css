@@ -236,13 +236,6 @@ input[type='checkbox']:checked + span::after {
   overflow: hidden;
 }
 
-.content__video-card-thumbnail {
-  width: 194px;
-  height: 103px;
-  object-fit: cover;
-  object-position: center;
-}
-
 .title {
   padding: 0 0 26px;
   text-transform: uppercase;
