@@ -192,6 +192,13 @@ input[type='checkbox']:checked + span::after {
   color: inherit; /* Наследовать цвет текста от родителя */
   color: #fff;
   text-decoration: none;
+
+}
+
+.content__card-link:focus {
+  outline: none;
+  background-color: #545050;
+  
 }
 
 .content__video-card-thumbnail {
